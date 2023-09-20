@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "T4_NMVR_1140023/1.0.0": {
+        "runtime": {
+          "T4_NMVR_1140023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T4_NMVR_1140023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

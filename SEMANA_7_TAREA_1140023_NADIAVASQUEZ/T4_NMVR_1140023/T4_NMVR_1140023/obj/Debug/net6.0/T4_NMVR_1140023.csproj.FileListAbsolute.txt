@@ -1,0 +1,14 @@
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\bin\Debug\net6.0\T4_NMVR_1140023.exe
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\bin\Debug\net6.0\T4_NMVR_1140023.deps.json
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\bin\Debug\net6.0\T4_NMVR_1140023.runtimeconfig.json
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\bin\Debug\net6.0\T4_NMVR_1140023.dll
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\bin\Debug\net6.0\T4_NMVR_1140023.pdb
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\obj\Debug\net6.0\T4_NMVR_1140023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\obj\Debug\net6.0\T4_NMVR_1140023.AssemblyInfoInputs.cache
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\obj\Debug\net6.0\T4_NMVR_1140023.AssemblyInfo.cs
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\obj\Debug\net6.0\T4_NMVR_1140023.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\obj\Debug\net6.0\T4_NMVR_1140023.dll
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\obj\Debug\net6.0\refint\T4_NMVR_1140023.dll
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\obj\Debug\net6.0\T4_NMVR_1140023.pdb
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\obj\Debug\net6.0\T4_NMVR_1140023.genruntimeconfig.cache
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\SEMANA_7_TAREA_1140023_NADIAVASQUEZ\T4_NMVR_1140023\T4_NMVR_1140023\obj\Debug\net6.0\ref\T4_NMVR_1140023.dll
