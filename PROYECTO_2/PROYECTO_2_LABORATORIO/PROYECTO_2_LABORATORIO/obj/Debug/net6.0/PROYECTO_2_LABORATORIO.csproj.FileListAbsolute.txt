@@ -1,0 +1,14 @@
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\bin\Debug\net6.0\PROYECTO_2_LABORATORIO.exe
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\bin\Debug\net6.0\PROYECTO_2_LABORATORIO.deps.json
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\bin\Debug\net6.0\PROYECTO_2_LABORATORIO.runtimeconfig.json
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\bin\Debug\net6.0\PROYECTO_2_LABORATORIO.dll
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\bin\Debug\net6.0\PROYECTO_2_LABORATORIO.pdb
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\obj\Debug\net6.0\PROYECTO_2_LABORATORIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\obj\Debug\net6.0\PROYECTO_2_LABORATORIO.AssemblyInfoInputs.cache
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\obj\Debug\net6.0\PROYECTO_2_LABORATORIO.AssemblyInfo.cs
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\obj\Debug\net6.0\PROYECTO_2_LABORATORIO.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\obj\Debug\net6.0\PROYECTO_2_LABORATORIO.dll
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\obj\Debug\net6.0\refint\PROYECTO_2_LABORATORIO.dll
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\obj\Debug\net6.0\PROYECTO_2_LABORATORIO.pdb
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\obj\Debug\net6.0\PROYECTO_2_LABORATORIO.genruntimeconfig.cache
+C:\Users\Nadia\OneDrive\Documentos\Ciclo 2\Progra\Lab\PROYECTO_2\PROYECTO_2_LABORATORIO\PROYECTO_2_LABORATORIO\obj\Debug\net6.0\ref\PROYECTO_2_LABORATORIO.dll
